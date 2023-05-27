@@ -1,3 +1,24 @@
+ENG / GER below:
+
+In view of my concerns regarding the productive course of instruction in my current "bootcamp", I have written a terminal-based tool aimed at identifying issues in the course of instruction. It enables the empirical analysis of the central question:
+
+Is it pedagogically more sensible to hold back questions until the end of a lesson and then give the students the choice of whether they want to stay and listen to the questions of the other course participants? Or is a process-oriented approach, where individual questions are dealt with during the lesson, more effective?
+
+The functions of the program are based on the collection and evaluation of two simple questions:
+
+1. "Could the question just asked by the participant have been answered independently via Google?" and
+2. "Did the question provide added value for all course participants?"
+
+Of course, as a prerequisite for this test, the process-oriented approach must be pursued in the existing course. Then this tool can be used during the lesson to discuss whether each question posed by a course participant was relevant to the entire course, or whether it only stole time and caused confusion.
+
+Regarding my specific bootcamp situation, the following points had to be considered:
+
+- It involves frontal teaching and a class size of about 30 students. This leads to individual learning speeds being difficult to implement. In addition, "quiet" students are easily overlooked.
+- All participants can only attend the course through the mediation of the Employment Agency or the Job Center. This creates the basic atmosphere of a hierarchy (towards the office one is always indebted). This is also noticeable in the course and is consciously used by the lecturers and the organization of the "bootcamp". Thus, students learn more under "duress" and under the fear of sanctions ("repeat a grade", exclusion from the course, and later: reduction of funds from the Job Center). This leads to a critical basic understanding of a supposedly voluntary bootcamp, which is there to acquire skills and can lead to problematic dynamics within the course.
+- All course participants identify as male. In many pedagogical situations, homogeneity in terms of gender and sex can lead to certain challenges and dynamics that could impair learning. For example, in some cases, strong competition between so-called "alpha males" can arise, leading to a negative climate or division in the course. If some participants are particularly dominant ("loud" - that is, always take up a lot of speaking time), this can cause other participants to hold back. In addition, the lack of gender diversity can lead to a lack of different perspectives that could enrich learning and discussion.
+
+########################################################################################################################
+
 Angesichts meiner Bedenken hinsichtlich des produktiven Unterrichtsablaufs in meinem derzeitigen "Bootcamp"
 habe ich ein terminalbasiertes Tool geschrieben, das darauf abzielt, Probleme des Unterrichtsablaufs zu identifizieren.
 Es ermöglicht die empirische Analyse der zentralen Frage:
