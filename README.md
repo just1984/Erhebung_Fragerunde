@@ -6,10 +6,14 @@ Ist es pädagogisch sinnvoller, Fragen bis zum Ende einer Unterrichtseinheit zur
 
 Die Funktionen des Programms basieren auf der Erhebung und Auswertung von zwei simplen Fragen:
 
-1. "Hätte die gerade gestellte Frage des Teilnehmenden eigenständig über Google beantwortet werden können?" und
+1. "Hätte die gerade gestellte Frage des Teilnehmenden eigenständig über Google beantwortet werden können?"
 2. "Hat die Frage zu einem Mehrwert für alle Kursteilnehmenden geführt?"
 
-Natürlich muss als Vorraussetzung für diesen Test der prozessorientierte Ansatz im bestehenden Kurs verfolgt werden. Dann kann dieses Tool während des Unterrichts genutzt werden, um bei jeder von einem Kursteilnehmenden gestellten Frage zu erörtern, ob diese Frage relevant für den gesamten Kurs war, oder ob sie nur Zeit geraubt und Verwirrung gestiftet hat.
+Natürlich muss als Vorraussetzung für diesen Test der prozessorientierte Ansatz im bestehenden Kurs verfolgt werden. Dann kann dieses Tool während des Unterrichts genutzt werden, um bei jeder von einem Kursteilnehmenden gestellten Frage zu erörtern, ob diese Frage relevant für den gesamten Kurs war, oder ob sie nur Zeit geraubt und Verwirrung gestiftet hat. Zum Abschluss gibt das Programm eine Statistik aus und gibt eine EMpfehlung für die "richtige" Art des Unterichtsablaufs.
+
+#
+#
+#
 
 In Bezug auf meine konkrete Bootcamp-Situation waren folgende Punkte zu beachten:
 
@@ -29,6 +33,10 @@ The functions of the program are based on the collection and evaluation of two s
 2. "Did the question provide added value for all course participants?"
 
 Of course, as a prerequisite for this test, the process-oriented approach must be pursued in the existing course. Then this tool can be used during the lesson to discuss whether each question posed by a course participant was relevant to the entire course, or whether it only stole time and caused confusion.
+
+#
+#
+#
 
 Regarding my specific bootcamp situation, the following points had to be considered:
 
