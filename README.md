@@ -34,13 +34,8 @@ The functions of the program are based on the collection and evaluation of two s
 
 Of course, as a prerequisite for this test, the process-oriented approach must be pursued in the existing course. Then this tool can be used during the lesson to discuss whether each question posed by a course participant was relevant to the entire course, or whether it only stole time and caused confusion.
 
-#
-#
-#
-
 Regarding my specific bootcamp situation, the following points had to be considered:
 
 - It involves frontal teaching and a class size of about 30 students. This leads to individual learning speeds being difficult to implement. In addition, "quiet" students are easily overlooked.
 - All participants can only attend the course through the mediation of the Employment Agency or the Job Center. This creates the basic atmosphere of a hierarchy (towards the office one is always indebted). This is also noticeable in the course and is consciously used by the lecturers and the organization of the "bootcamp". Thus, students learn more under "duress" and under the fear of sanctions ("repeat a grade", exclusion from the course, and later: reduction of funds from the Job Center). This leads to a critical basic understanding of a supposedly voluntary bootcamp, which is there to acquire skills and can lead to problematic dynamics within the course.
 - All course participants identify as male. In many pedagogical situations, homogeneity in terms of gender and sex can lead to certain challenges and dynamics that could impair learning. For example, in some cases, strong competition between so-called "alpha males" can arise, leading to a negative climate or division in the course. If some participants are particularly dominant ("loud" - that is, always take up a lot of speaking time), this can cause other participants to hold back. In addition, the lack of gender diversity can lead to a lack of different perspectives that could enrich learning and discussion.
-
